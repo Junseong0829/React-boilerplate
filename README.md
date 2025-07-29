@@ -23,7 +23,7 @@ A modern React boilerplate project with TypeScript and Vite, featuring a robust 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/enc2586/react-boilerplate
+git clone https://github.com/Junseong0829/react-boilerplate
 ```
 
 2. Install dependencies
